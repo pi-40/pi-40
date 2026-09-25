@@ -16,7 +16,3 @@ I have made many open-source projects in the past
 
 ## Stats
 [![Pi40's GitHub stats](https://github-stats-extended.vercel.app/api?username=pi-40)](https://github.com/stats-organization/github-stats-extended)
-## Account age
-<h1>August 2026</h1>
-<hr>
-<img width="115" height="64" alt="6 months" src="https://github.com/user-attachments/assets/ce73cd9e-b37e-46f6-bf99-caee3d65a897" />
